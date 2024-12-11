@@ -53,5 +53,5 @@ The project provides insights into how features like `RM`, `LSTAT`, and `PTRATIO
 ## Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to open an issue or submit a pull request.
 ## Acknowledgments
-This project is part of the Machine Learning Engineer Nanodegree program. Special thanks to the course instructors and reviewers for their guidance.
+This project is part of the Machine Learning Engineer Nanodegree program. Special thanks to the course instructor for their guidance.
 ---
