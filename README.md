@@ -36,7 +36,7 @@ Make sure you have Jupyter Notebook installed to view and execute the notebook f
 ## How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/boston-housing.git
+   git clone https://github.com/vvmostafavv/boston-housing.git
    cd boston-housing
    ```
 2. Install the required dependencies:
